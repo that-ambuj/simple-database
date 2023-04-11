@@ -1,2 +1,2 @@
-build: repl.c
-	gcc repl.c -o ./repl
+build: db.c
+	gcc db.c -o ./db
